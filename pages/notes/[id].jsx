@@ -1,5 +1,5 @@
-import React from "react";
+import React from 'react'
 
-const Page = () => <div>Note Page</div>;
+const Page = () => <div>Note Page</div>
 
-export default Page;
+export default Page
